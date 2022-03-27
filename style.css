@@ -1,0 +1,38 @@
+/* Add your styles here */
+
+body {
+    text-align: center;
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+  img {
+    border-radius: 50%;
+  }
+  
+  @media only screen and (min-width: 360px) {
+    body {
+      display: block;
+    }
+    iframe {
+      width: 500;
+      height: 200;
+    }
+  }
+  
+  @media only screen and (min-width: 160px) {
+    body {
+      display: block;
+    }
+  }
+  
+  
