@@ -1,5 +1,5 @@
 ## Bot do Azure: 
-## https://beatrizoliveiraferreira.github.io/salut.github.io/ href="target_blank"
+<p> https://beatrizoliveiraferreira.github.io/salut.github.io/ </p>
 <p> 
   <img src="https://cdn.pixabay.com/photo/2019/01/16/20/52/chatbot-3936760_1280.jpg" width=500/>
 </p>
