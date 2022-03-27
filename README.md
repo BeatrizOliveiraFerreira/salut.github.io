@@ -7,3 +7,6 @@ https://qnamaker.ai/
 <p>
   <img src="https://i2.paste.pics/GIHV7.png?trs=fbd32904bcacfc056580f21a58683fca4eb028a3f868e0695f4a61f0369226c6"width=500/>
 </p>
+
+## O que é QNA MAKER?
+Link da Documentação: https://docs.microsoft.com/pt-br/azure/cognitive-services/qnamaker/overview/overview
