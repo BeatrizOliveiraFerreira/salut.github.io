@@ -9,4 +9,9 @@ https://qnamaker.ai/
 </p>
 
 ## O que é QnA Maker?
-Link da Documentação: https://docs.microsoft.com/pt-br/azure/cognitive-services/qnamaker/overview/overview
+Link da Documentação: 
+<p> https://docs.microsoft.com/pt-br/azure/cognitive-services/qnamaker/overview/overview </p>
+
+## Criar um recurso bot do Azure
+<p> https://docs.microsoft.com/pt-br/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0&tabs=userassigned </p>
+
