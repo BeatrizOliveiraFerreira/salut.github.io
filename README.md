@@ -4,6 +4,10 @@
   <img src="https://cdn.pixabay.com/photo/2019/01/16/20/52/chatbot-3936760_1280.jpg" width=500/>
 </p>
 
+<base href="https://beatrizoliveiraferreira.github.io/salut.github.io/">
+<base target="_blank" href="https://beatrizoliveiraferreira.github.io/salut.github.io/">
+
+
 # salut.github.io
 <p> Criando um bot pelo Azure </p>
 <img src="https://i2.paste.pics/GIHTB.png?trs=fbd32904bcacfc056580f21a58683fca4eb028a3f868e0695f4a61f0369226c6" width=500 />
