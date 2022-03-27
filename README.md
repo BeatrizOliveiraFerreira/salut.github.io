@@ -1,11 +1,10 @@
 ## Bot do Azure: 
-<p> href="https://beatrizoliveiraferreira.github.io/salut.github.io/"target="_blank"</p>
+## https://beatrizoliveiraferreira.github.io/salut.github.io/ href="target_blank"
 <p> 
   <img src="https://cdn.pixabay.com/photo/2019/01/16/20/52/chatbot-3936760_1280.jpg" width=500/>
 </p>
 
-<base href="https://beatrizoliveiraferreira.github.io/salut.github.io/">
-<base target="_blank" href="https://beatrizoliveiraferreira.github.io/salut.github.io/">
+
 
 
 # salut.github.io
